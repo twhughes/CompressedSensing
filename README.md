@@ -21,5 +21,7 @@ Red dotted line is amount of iterations needed if you were sampling the sparse m
 
 Green line is the amount of sampling you would need to do if you knew, a priori, which elements were non-zero.
 
+(Improvement with this method can be quantified by difference between blue line and red dotted line)
 
+As seen, it works best for very sparse matrices.
 
