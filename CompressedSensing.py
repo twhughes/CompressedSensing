@@ -5,12 +5,6 @@ from numpy.random import randint, random
 import pylab as pl
 
 
-'''
-Sorry this code is so messy
-I will clean it up soon
-'''
-
-
 N = 20
 ERROR_MIN = 1e-1
 PERC_MAX = 100
